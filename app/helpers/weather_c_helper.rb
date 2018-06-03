@@ -1,0 +1,2 @@
+module WeatherCHelper
+end
