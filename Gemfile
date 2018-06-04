@@ -35,7 +35,7 @@ gem 'devise'
 gem 'pry'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+ gem 'pg'
 gem 'figaro'
 gem 'puma', '~> 3.7'
 
