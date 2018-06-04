@@ -59,4 +59,4 @@
 #     auth_methods: %w(publickey password)
 #     # password: "please use keys"
 #   }
-server '18-220-27-198', user: 'weather', roles: %w{web app db}
+server '18-220-27-198', user: 'test', roles: %w{web app db}
